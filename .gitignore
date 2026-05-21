@@ -1,2 +1,9 @@
-.venv/
+petsc_env/
 *.md
+*.*/
+*.pyc
+data/fields
+logs/
+*.pt
+*.h5
+__pycache__/
